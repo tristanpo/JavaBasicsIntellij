@@ -1,5 +1,5 @@
 Constructors in Java:
-constructors in java are special block of code similar to methods that intitalize the objects of a class.
+constructors in java are special block of code similar to methods that initialize the objects of a class.
 Rules:
 1)They don't have return types not even void
 2)Name of the constructor must be same as name of the class
