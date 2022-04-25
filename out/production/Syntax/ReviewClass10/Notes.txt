@@ -101,5 +101,7 @@ Rules:
  2) method signature (method name + parameter list) should be different
  3)we can't overload a method by just changing its return type
  4)we can't overload a method just by changing its access modifiers(public, private, etc)
- 5)
+ 5)we can't overload a method by just changing its non-access modifiers(static final etc.)
+ 6)we can overload static methods and main method as well.
+ 7) constructors can also be overloaded.
 
